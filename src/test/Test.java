@@ -31,7 +31,7 @@ import java.util.Scanner;
             System.out.println(nome + " " + cognome +
                     " è nato il " + giornoSettimana +
                     " " + giorno + "/" + mese + "/" + anno);
-
+            System.out.println(nome + " "+" è nato il "+ giorno + "/" + mese + "/" + anno);
             scanner.close();
         }
     }
